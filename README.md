@@ -5,7 +5,7 @@ Instalación de servidor  WireGuard en Debian, Ubuntu, Fedora, CentOS, Arch Linu
 
 Baja y ejecuta el script. Contesta las preguntas que te haga y él se ocupará de todo lo demás.
 
-`curl -O https://raw.githubusercontent.com/angristan/wireguard-install/master/wireguard-install.sh`
+`curl -O https://raw.githubusercontent.com/4kr0g/wireguard_install/refs/heads/main/wireguard_install`
 
 `chmod +x wireguard-install.sh`
 
